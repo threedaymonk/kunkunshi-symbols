@@ -6,7 +6,7 @@ that have a fixed symbol.
 
 This includes symbols used for sanshin and for vocal notation.
 
-Each symbol is stored in its own SVG file in the `symbols` directory, and
+Each symbol is stored in its own SVG file in the `src` directory, and
 consists of a single `<path>` element with an ID.
 
 The nominal size of each symbol is 18 points, and the symbol is drawn in
