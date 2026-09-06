@@ -10,7 +10,7 @@ Each symbol is stored in its own SVG file in the `src` directory, and
 consists of a single `<path>` element with an ID.
 
 The nominal size of each symbol is 18 points, and the symbol is drawn in
-a canvas of 28 by 46 points, with the origin at dead centre.
+a canvas of 28 by 36 points, with the origin at dead centre.
 
 ## Notes
 
