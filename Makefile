@@ -8,7 +8,7 @@ PDFS = \
 all : build/kunkunshi-all.svg $(PDFS)
 
 clean :
-	git clean -fd build
+	git clean -fdx build
 
 build/kunkunshi-all.svg : $(SYMBOLS)
 	python xmlcombine.py $^ > $@
