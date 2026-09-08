@@ -54,6 +54,7 @@ a canvas of 28 by 36 points, with the origin at dead centre.
 |------------|------------|--------------------------|
 | mark_uchi  | `          | Hammer-on[^1]            |
 | mark_kaki  | ⌝          | Upstroke[^1]             |
+| mark_sharp | ♯          | Sharp[^1]                |
 | mark_flat  | ♭          | Flat[^1]                 |
 | mark_f1    | Circled 一 | 1st finger               |
 | mark_f2    | Circled 二 | 2nd finger               |
