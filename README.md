@@ -61,7 +61,7 @@ a canvas of 28 by 36 points, with the origin at dead centre.
 | mark_f3     | Circled 三 | 3rd finger               |
 | mark_f4     | Circled 四 | 4th finger               |
 | mark_vstart | ○          | Voice start              |
-| mark_vend   | ▫          | Voice end                |
+| mark_vend   | ▯          | Voice end                |
 
 [^1]: These marks are placed off-centre with the intention that they can be
     overlaid directly onto the note.
