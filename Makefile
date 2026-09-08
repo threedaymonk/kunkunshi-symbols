@@ -10,7 +10,7 @@ all : build/kunkunshi-all.svg $(PDFS)
 clean :
 	git clean -fdx build
 
-build/kunkunshi-all.svg : $(SYMBOLS)
+build/kunkunshi-all.svg : template.svg $(SYMBOLS)
 	python xmlcombine.py $^ > $@
 
 build/%.pdf : src/%.svg
