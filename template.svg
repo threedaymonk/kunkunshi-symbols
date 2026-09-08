@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="-14 -18 28 36"
+   width="28pt"
+   height="36pt"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <g
+   id="guide"
+   style="stroke: #dddddd; stroke-width: 0.1; fill: none">
+  <rect
+     x="-8"
+     y="-7"
+     width="16"
+     height="14"
+     id="rect1" />
+  <path
+     d="M 0,-18 v 36"
+     id="path1" />
+  <path
+     d="M -14,0 h 28"
+     id="path2" />
+  </g>
+</svg>
