@@ -48,10 +48,19 @@ a canvas of 28 by 36 points, with the origin at dead centre.
 | 凡    | bon      | Vocal; 1 octave below 中 |
 | 勺    | shaku8   | Vocal; 1 octave below 尺 |
 
-## Other symbols
+## Articulations and accidentals
 
 | ID       | Notes                    |
 |----------|--------------------------|
 | uchi     | Hammer-on                |
 | kaki     | Upstroke                 |
 | flat     | Flat                     |
+
+## Fingering marks
+
+| ID       | Notes                    |
+|----------|--------------------------|
+| finger_1 | Circled 一               |
+| finger_2 | Circled 二               |
+| finger_3 | Circled 三               |
+| finger_4 | Circled 四               |
