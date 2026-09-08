@@ -14,53 +14,51 @@ a canvas of 28 by 36 points, with the origin at dead centre.
 
 ## Notes
 
-| Kanji | ID       | Notes                    |
-|-------|----------|--------------------------|
-| ◯     | maru     | Rest                     |
-| 合    | ai       |                          |
-| 乙    | otsu     |                          |
-| 老    | rou      |                          |
-| 下老  | gerou    |                          |
-| ﾛ上   | koujou   |                          |
-| ﾛ中   | kounaka  |                          |
-| ﾛ尺   | koushaku |                          |
-| ｲ合   | iai      |                          |
-| ｲ乙   | iotsu    |                          |
-| 四    | yon      |                          |
-| 上    | jou      |                          |
-| 中    | naka     |                          |
-| 尺    | shaku    |                          |
-| 下尺  | geshaku  |                          |
-| ﾛ五   | kougo    |                          |
-| ｲ老   | irou     |                          |
-| ｲ四   | iyon     |                          |
-| ｲ上   | ijou     |                          |
-| 工    | kou      |                          |
-| 五    | go       |                          |
-| 六    | roku     |                          |
-| 七    | shichi   |                          |
-| 八    | hachi    |                          |
-| 九    | kyuu     |                          |
-| ｲ尺   | ishaku   |                          |
-| ｲ工   | ikou     |                          |
-| ｲ五   | igo      |                          |
-| 才    | sai      | Vocal; 1 octave below 上 |
-| 凡    | bon      | Vocal; 1 octave below 中 |
-| 勺    | shaku8   | Vocal; 1 octave below 尺 |
+|      ID       | Kanji | Notes                    |
+|---------------|-------|--------------------------|
+| note_maru     | ◯     | Rest                     |
+| note_ai       | 合    |                          |
+| note_otsu     | 乙    |                          |
+| note_rou      | 老    |                          |
+| note_gerou    | 下老  |                          |
+| note_koujou   | ﾛ上   |                          |
+| note_kounaka  | ﾛ中   |                          |
+| note_koushaku | ﾛ尺   |                          |
+| note_iai      | ｲ合   |                          |
+| note_iotsu    | ｲ乙   |                          |
+| note_yon      | 四    |                          |
+| note_jou      | 上    |                          |
+| note_naka     | 中    |                          |
+| note_shaku    | 尺    |                          |
+| note_geshaku  | 下尺  |                          |
+| note_kougo    | ﾛ五   |                          |
+| note_irou     | ｲ老   |                          |
+| note_iyon     | ｲ四   |                          |
+| note_ijou     | ｲ上   |                          |
+| note_kou      | 工    |                          |
+| note_go       | 五    |                          |
+| note_roku     | 六    |                          |
+| note_shichi   | 七    |                          |
+| note_hachi    | 八    |                          |
+| note_kyuu     | 九    |                          |
+| note_ishaku   | ｲ尺   |                          |
+| note_ikou     | ｲ工   |                          |
+| note_igo      | ｲ五   |                          |
+| note_sai      | 才    | Vocal; 1 octave below 上 |
+| note_bon      | 凡    | Vocal; 1 octave below 中 |
+| note_shaku8   | 勺    | Vocal; 1 octave below 尺 |
 
-## Articulations and accidentals
+## Other marks
 
-| ID       | Notes                    |
-|----------|--------------------------|
-| uchi     | Hammer-on                |
-| kaki     | Upstroke                 |
-| flat     | Flat                     |
+| ID         | Appearance | Notes                    |
+|------------|------------|--------------------------|
+| mark_uchi  | `          | Hammer-on[^1]            |
+| mark_kaki  | ⌝          | Upstroke[^1]             |
+| mark_flat  | ♭          | Flat[^1]                 |
+| mark_f1    | Circled 一 | 1st finger               |
+| mark_f2    | Circled 二 | 2nd finger               |
+| mark_f3    | Circled 三 | 3rd finger               |
+| mark_f4    | Circled 四 | 4th finger               |
 
-## Fingering marks
-
-| ID       | Notes                    |
-|----------|--------------------------|
-| finger_1 | Circled 一               |
-| finger_2 | Circled 二               |
-| finger_3 | Circled 三               |
-| finger_4 | Circled 四               |
+[^1]: These marks are placed off-centre with the intention that they can be
+    overlaid directly onto the note.
